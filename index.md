@@ -4,8 +4,8 @@
 ## loves
 ### animals
 
-- Bulleted
-- List
+- go vegan for the animals
+- govegan for the planet
 
 1. Numbered
 2. List

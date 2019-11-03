@@ -7,4 +7,5 @@
 - go vegan for the animals
 - govegan for the planet
 
-#<3
+# More than 200 million animals are killed for food around the world every day – just on land.
+

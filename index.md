@@ -10,4 +10,4 @@
 # More than 200 million animals are killed for food around the world every day – just on land.
 
 ![](/images/test.png)
-![](SpinachHempSphere.2016.klaoe.jpg)
+![](/images/food/SpinachHempSphere.2016.klaoe.jpg)

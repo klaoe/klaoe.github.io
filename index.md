@@ -1,11 +1,12 @@
-#TRYING TO BUILD A WEBSITE WITHOUT HAVING A CLUE
+# TRYING TO BUILD A WEBSITE WITHOUT HAVING A CLUE
 
 
 # klaoe loves animals, do you love animals?
 # klaoe loves freedom, do you love freedom?
 # klaoe loves DADADA...
 
-
+# klaoe has no religion
+# klaoe doesn't trust politics
 
 - go vegan for the animals
 - go vegan for the planet

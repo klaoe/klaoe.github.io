@@ -5,8 +5,8 @@
 # klaoe loves freedom, do you love freedom?
 # klaoe loves DADADA...
 
-# klaoe has no religion
-# klaoe doesn't trust politics
+# klaoe has no religion, it separate instead of unite.
+# klaoe doesn't trust politicians, get them out! El pueblo unido jamás será vencido...
 
 - go vegan for the animals
 - go vegan for the planet

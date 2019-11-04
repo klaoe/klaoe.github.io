@@ -2,8 +2,8 @@
 
 
 # klaoe loves animals, do you love animals?
-[Dominion](https://www.dominionmovement.com "Dominion")
-[Earthlings](https://vimeo.com/209647801 "Earthlings")
+- [Dominion](https://www.dominionmovement.com "Dominion")
+- [Earthlings](https://vimeo.com/209647801 "Earthlings")
 # klaoe loves freedom, do you love freedom?
 
 # klaoe loves DADADA...

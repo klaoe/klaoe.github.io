@@ -3,9 +3,9 @@
 
 # klaoe loves animals, do you love animals?
 [Dominion](https://www.dominionmovement.com "Dominion")
-
-# klaoe loves freedom, do you love freedom?
 [Earthlings](https://vimeo.com/209647801 "Earthlings")
+# klaoe loves freedom, do you love freedom?
+
 # klaoe loves DADADA...
 
 # klaoe has no religion, it separate instead of unite.

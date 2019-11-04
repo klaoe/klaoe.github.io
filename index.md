@@ -6,7 +6,7 @@
 # klaoe loves DADADA...
 
 # klaoe has no religion, it separate instead of unite.
-# klaoe doesn't trust politicians, get them out! El pueblo unido jamás será vencido...
+# klaoe doesn't trust politicians...but believes in..el pueblo unido jamás será vencido!
 
 - go vegan for the animals
 - go vegan for the planet

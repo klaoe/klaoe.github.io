@@ -21,8 +21,4 @@
 
 
 
-# Spinach and hemp seeds Spheres
-![](/images/food/SpinachHempSphere.2016.klaoe.jpg)
-
-
 # DO NOT FORGET: TOMATOES ARE FRUITS

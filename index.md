@@ -8,7 +8,7 @@
 # Food Sovereignty
 # Environment protection
 
-Write me if you feel to at klaoe find me
+Write me if you feel to.
 
 
 # DO NOT FORGET: TOMATOES ARE FRUITS

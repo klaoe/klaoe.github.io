@@ -1,4 +1,4 @@
-# TRYING TO BUILD A WEBSITE WITHOUT HAVING A CLUE
+# TRYING TO BUILD A WEBSITE...
 
 
 # klaoe loves animals, do you love animals?
@@ -8,7 +8,7 @@
 
 # klaoe loves DADADA...
 
-# klaoe has no religion, it separate instead of unite.
+# No religion, it separate instead of unite.
 # klaoe doesn't trust politicians...but believes in..el pueblo unido jamás será vencido!
 
 - go vegan for the animals
@@ -22,5 +22,8 @@
 
 
 # DO NOT FORGET: TOMATOES ARE FRUITS
+# Desarrollo sostenible
+# Soberanía alimentaria
+# Defensa del medioambiente
 
 Write me if you feel to at klaoe find me

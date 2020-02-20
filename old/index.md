@@ -1,7 +1,7 @@
 
 
 
-# My job is to help people. I help them in many ways. First of all I am a polyglot that has more than 25 years of experience in professional gastronomy. I have lived and worked in several countries 
+# My job is to help people! I help them in many ways. First of all I am a polyglot that has more than 25 years of experience in professional gastronomy. I have lived and worked in several countries 
 # klaoe loves animals, do you love animals?
 
 # More than 200 million animals are killed for food around the world every day – just on land.

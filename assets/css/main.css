@@ -563,7 +563,7 @@ textarea {
 body {
     margin: 0;
     padding: 0;
-    line-height: 1.4;
+    line-height: 0.5;
     font-size: 28px;
     font-weight: 400;
     font-family: "Helvetica", "Open Sans", sans-serif;
@@ -2341,6 +2341,7 @@ ul {
 
 .work__text {
     font-size: 14px;
+    line-height: 0.5;
 }
 
 @media (min-width: 993px) {

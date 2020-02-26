@@ -563,7 +563,7 @@ textarea {
 body {
     margin: 0;
     padding: 0;
-    line-height: 0.5;
+    line-height: 1.4;
     font-size: 28px;
     font-weight: 400;
     font-family: "Helvetica", "Open Sans", sans-serif;
@@ -2000,7 +2000,7 @@ ul {
 
 .page-title__text {
     font-size: 24px;
-    color: #39b1a1;
+    color: #lightseagreen;
 }
 
 .page-title__divider {
@@ -2341,7 +2341,8 @@ ul {
 
 .work__text {
     font-size: 14px;
-    line-height: 0.5;
+    line-height: 0;
+    
 }
 
 @media (min-width: 993px) {

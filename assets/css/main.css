@@ -566,7 +566,7 @@ body {
     line-height: 1.4;
     font-size: 28px;
     font-weight: 400;
-    font-family: "Helvetica" "Open Sans", sans-serif;
+    font-family: "Helvetica", "Open Sans", sans-serif;
     color: #black;
 }
 
@@ -599,7 +599,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     line-height: 1.4;
     color: #333;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Helvetica", "Open Sans", "Montserrat", sans-serif;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1999,7 +1999,7 @@ ul {
 }
 
 .page-title__text {
-    font-size: 16px;
+    font-size: 20px;
     color: #a3a3a3;
 }
 
@@ -2300,7 +2300,7 @@ ul {
 }
 
 .work-detail__entry {
-    font-size: 14px;
+    font-size: 20px;
     padding: 10px 0 40px;
 }
 
@@ -2812,7 +2812,7 @@ ul {
 
 .sharebox__module .social-text {
     font-family: "Montserrat", sans-serif;
-    font-size: 12px;
+    font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
     color: #333;

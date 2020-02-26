@@ -296,7 +296,7 @@ hr {
     outline: none;
     margin: 0;
     text-align: center;
-    font-size: 12px;
+    font-size: 20px;
     padding: 10px 20px;
     color: #000;
     background-color: #eee;
@@ -1999,8 +1999,8 @@ ul {
 }
 
 .page-title__text {
-    font-size: 20px;
-    color: #a3a3a3;
+    font-size: 24px;
+    color: #39b1a1;
 }
 
 .page-title__divider {

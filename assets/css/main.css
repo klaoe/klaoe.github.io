@@ -298,7 +298,7 @@ hr {
     text-align: center;
     font-size: 20px;
     padding: 10px 20px;
-    color: #lightseagreen;
+    color: lightseagreen;
     background-color: #eee;
     transition: all .3s ease;
     text-decoration: none;
@@ -314,7 +314,6 @@ hr {
 .md-btn:hover {
     background-color: #ebebeb;
     color: #000;
-    text-decoration: line-through;
 }
 
 .md-btn[disabled] {
@@ -956,8 +955,7 @@ ul {
 }
 
 .overlay-menu ul li.active > a, .overlay-menu ul li a:hover {
-    color: #ff594f;
-    text-decoration: line-through;
+    color: lightseagreen;
 }
 
 .fs-button {
